@@ -1,4 +1,4 @@
 # demo
 First GIT repository.
 <br>
-Author-Sidhartha
+Author-Sidhartha Chennuri
