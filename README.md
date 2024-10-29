@@ -1,4 +1,4 @@
 # demo
-First GIR repository.
+First GIT repository.
 <br>
 Author-Sidhartha
